@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Capstone</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="buttonLogin">LOGIN</string>
+    <string name="title_activity_login"></string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="storeName">CỬA HÀNG BÁN LẺ A</string>
+    <string name="checkInBtn">CHECK IN</string>
+    <string name="empList">EMPLOYEE LIST</string>
+    <string name="scheduleBtn">TODAY SCHEDULE</string>
+    <string name="exitBtn">EXIT</string>
+    <string name="title_activity_camera">Camera</string>
+    <string name="openCamera">OPEN CAMERA</string>
+    <string name="confirmCheckIn">CONFIRM CHECKIN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
